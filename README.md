@@ -3,4 +3,4 @@ Resources
 
 # Installation
 
-cargo install Fastatsplit
+'cargo install Fastatsplit'
